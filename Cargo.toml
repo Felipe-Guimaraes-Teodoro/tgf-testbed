@@ -1,0 +1,7 @@
+[package]
+name = "playgroundp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tiny-game-framework = "0.0.15"
